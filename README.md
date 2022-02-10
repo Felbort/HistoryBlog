@@ -1,2 +1,4 @@
 # HistoryBlog
-Blog de clase de Platzi
+Blog de clase de Platzi.
+
+Read me para mi aplicación.
